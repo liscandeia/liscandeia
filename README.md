@@ -1,4 +1,5 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+<head><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css"></head>
+
 <h1 align="center">Hi 👋, I'm Lis</h1>
 <h3 align="center">A student developer from Brazil</h3>
 
