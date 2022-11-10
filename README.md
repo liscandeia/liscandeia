@@ -11,8 +11,7 @@
     <h1 align="center">Hi 👋, I'm Lis</h1>
 <h3 align="center">A student developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Javascript** and **Data Science**
-
+- 🌱 I’m currently learning **Javascript**
 - 📫 How to reach me **liscandeia523@gmail.com**
     
     
