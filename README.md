@@ -28,7 +28,7 @@ Desenvolvedora em constante evolução, apaixonada por novas tecnologias e jogo 
 
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liscandeia&theme=transparent&bg_color=ff6060&border_color=FFF&show_icons=true&icon_color=FFF&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liscandeia&theme=transparent&bg_color=ff6060&border_color=FFF&show_icons=true&icon_color=FFF&title_color=FFF&text_color=FFF)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=liscandeia&layout=compact&bg_color=ff6060&border_color=FFF&title_color=FFF&text_color=FFF)
 
