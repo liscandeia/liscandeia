@@ -32,6 +32,8 @@ Desenvolvedora em constante evolução, apaixonada por novas tecnologias e jogo 
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=liscandeia&layout=compact&bg_color=ff6060&border_color=FFF&title_color=FFF&text_color=FFF)
 
+### GitHub Streak Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=liscandeia&theme=material&background=ff6060&border=FFFC&dates=FFF)](https://git.io/streak-stats)
 
 
