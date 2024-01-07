@@ -7,7 +7,7 @@ Desenvolvedora em constante evolução, apaixonada por novas tecnologias e jogo 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-F08080?style=for-the-badge)](https://www.dio.me/users/liscandeia523)
 [![Gmail](https://img.shields.io/badge/-Email-fbc3c3?style=for-the-badge&logo=microsoft-outlook&logoColor=ec0e0e)](mailto:liscandeia523@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/lis-lima-candeia/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://https://discord.com/channels/@lis777/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://https://discord.com/channels/@.lis777/)
 ### Habilidades
 
 ![HTML](https://img.shields.io/badge/HTML-ec490e?style=for-the-badge&logo=html5&logoColor=FFF)
