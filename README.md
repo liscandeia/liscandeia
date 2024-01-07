@@ -1,34 +1,38 @@
+# 👋🏻 Lis de Lima Candeia
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
-  </head>
-  <body>
-    <h1 align="center">Hi 👋, I'm Lis</h1>
-<h3 align="center">A student developer from Brazil</h3>
+Desenvolvedora em constante evolução, apaixonada por novas tecnologias e jogo nas horas vagas.
 
-- 🌱 I’m currently learning **Swift**
-- 📫 How to reach me **liscandeia523@gmail.com**
-    
-    
-   <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
- </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Conecte-se comigo
+
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-F08080?style=for-the-badge)](https://www.dio.me/users/liscandeia523)
+[![Gmail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:liscandeia523@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=E94D5F)](https://www.linkedin.com/in/lis-lima-candeia/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://https://discord.com/channels/@lis777/)
+### Habilidades
+
+![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+[![Swift](https://img.shields.io/badge/Swift-FA7343?&style=for-the-badge&logo=swift&logoColor=white)](link)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+[![Trello](https://img.shields.io/badge/Trello-0079BF?&style=for-the-badge&logo=trello&logoColor=white)](link)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?&style=for-the-badge&logo=intellij-idea&logoColor=white)](link)
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/lis-de-lima-candeia-8a9107201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andr%c3%a9-feij%c3%b3-00875b227/" height="30" width="40" /></a>
-</p>
-<div align="center">
-  <a href="https://github.com/liscandeia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liscandeia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liscandeia&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  </body>
-</html>
+
+### GitHub Stats
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=liscandeia&layout=compact&bg_color=ff6060&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=1Maatheus&layout=compact&bg_color=ff6060&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=liscandeia&theme=material&background=ff6060&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
+
 
