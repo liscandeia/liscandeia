@@ -5,8 +5,8 @@ Desenvolvedora em constante evolução, apaixonada por novas tecnologias e jogo 
 ### Conecte-se comigo
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-F08080?style=for-the-badge)](https://www.dio.me/users/liscandeia523)
-[![Gmail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:liscandeia523@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=E94D5F)](https://www.linkedin.com/in/lis-lima-candeia/)
+[![Gmail](https://img.shields.io/badge/-Email-fbc3c3?style=for-the-badge&logo=microsoft-outlook&logoColor=ec0e0e)](mailto:liscandeia523@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/lis-lima-candeia/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://https://discord.com/channels/@lis777/)
 ### Habilidades
 
@@ -29,10 +29,7 @@ Desenvolvedora em constante evolução, apaixonada por novas tecnologias e jogo 
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liscandeia&theme=transparent&bg_color=ff6060&border_color=FFF&show_icons=true&icon_color=FFF&title_color=FFF&text_color=FFF)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=liscandeia&layout=compact&bg_color=ff6060&border_color=FFF&title_color=FFF&text_color=FFF)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=liscandeia&theme=material&background=ff6060&border=FFFC&dates=FFF)](https://git.io/streak-stats)
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=liscandeia&layout=compact&bg_color=ff6060&border_color=FFF&title_color=FFF&text_color=FFF)
 
 
