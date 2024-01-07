@@ -10,20 +10,20 @@ Desenvolvedora em constante evolução, apaixonada por novas tecnologias e jogo 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://https://discord.com/channels/@lis777/)
 ### Habilidades
 
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-ec490e?style=for-the-badge&logo=html5&logoColor=FFF)
+![CSS3](https://img.shields.io/badge/CSS3-007ACC?style=for-the-badge&logo=css3&logoColor=FFF)
+![Java](https://img.shields.io/badge/java-%ec0e0e.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 [![Swift](https://img.shields.io/badge/Swift-FA7343?&style=for-the-badge&logo=swift&logoColor=white)](link)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+![MySQL](https://img.shields.io/badge/MySQL-FA7343?style=for-the-badge&logo=mysql&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-FA7343?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFF)](https://docs.github.com/)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 [![Trello](https://img.shields.io/badge/Trello-0079BF?&style=for-the-badge&logo=trello&logoColor=white)](link)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?&style=for-the-badge&logo=intellij-idea&logoColor=white)](link)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-a70eec?&style=for-the-badge&logo=intellij-idea&logoColor=white)](link)
 
 
 
